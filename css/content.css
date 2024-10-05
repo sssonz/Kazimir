@@ -1,0 +1,47 @@
+body {
+    width: 1440px;
+    background-color: #FAEAD3;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+  }
+  .mainscreen {
+    height: 920px;
+    background-color: #FAEAD3;
+  }
+  .aboutscreen{
+    height: 820px;
+    background-color: #FF5A00;
+  }
+  .outlinesscreen{
+    height: 950px;
+    background-color: #120F16;
+  }
+  .featuresscreen{
+    height: 880px;
+    background-color: #FAEAD3;
+  }
+  .alphabetscreen{
+    height: 720px;
+    background-color: #FAEAD3;
+  }
+  .languagesscreen{
+    height: 887px;
+    background-color: #FF5A00;
+  }
+  .ligaturesscreen{
+    height: 820px;
+    background-color: #120F16;
+  }
+  .ligaturesscreen{
+    height: 1063px;
+    background-color: #FAEAD3;
+  }
+footer{
+    display: inline-flex;
+    padding: 40px 90.524px 40px 90px;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 652.524px;
+    background-color: #120F16;
+}
