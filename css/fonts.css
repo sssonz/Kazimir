@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'Kazimir-BlackItalic';
+    src: url(../fonts/Kazimir-BlackItalic.ttf);
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Kazimir-Black';
+    src: url(../fonts/Kazimir-Black.ttf);
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kazimir-BoldItalic';
+    src: url(../fonts/Kazimir-BoldItalic.ttf);
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Kazimir-Bold';
+    src: url(../fonts/Kazimir-Bold.ttf);
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kazimir-MediumItalic';
+    src: url(../fonts/Kazimir-MediumItalic.ttf);
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Kazimir-Medium';
+    src: url(../fonts/Kazimir-Medium.ttf);
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kazimir-Italic';
+    src: url(../fonts/Kazimir-Italic.ttf);
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Kazimir-Regular';
+    src: url(../fonts/Kazimir-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kazimir-LightItalic';
+    src: url(../fonts/Kazimir-LightItalic.ttf);
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Kazimir-Light';
+    src: url(../fonts/Kazimir-Light.ttf);
+    font-weight: 300;
+    font-style: normal;
+}
+
