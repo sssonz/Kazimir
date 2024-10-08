@@ -1,16 +1,20 @@
-<svg width="1440" height="471" viewBox="0 0 1440 471" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="117.5" cy="27.5" r="27.5" fill="#120F16"/>
-<circle cx="252.5" cy="27.5" r="27.5" fill="#120F16"/>
-<circle cx="387.5" cy="27.5" r="27.5" fill="#120F16"/>
-<path d="M-20 85.3074H1818.73" stroke="#120F16" stroke-width="3.9289"/>
-<path d="M-20 145.307H1818.73" stroke="#120F16" stroke-width="3.9289"/>
-<path d="M-20 205.307H1818.73" stroke="#120F16" stroke-width="3.9289"/>
-<path d="M-20 265.307H1818.73" stroke="#120F16" stroke-width="3.9289"/>
-<path d="M-20 325.307H1818.73" stroke="#120F16" stroke-width="3.9289"/>
-<path d="M-20 385.307H1818.73" stroke="#120F16" stroke-width="3.9289"/>
-<path d="M475.696 61.4794V396.746M810.963 61.4794V396.746M1121.35 61.4794V396.746M1413.39 61.4794V396.746M1687.11 61.4794V396.746" stroke="#120F16" stroke-width="6.54817"/>
-<circle cx="387.5" cy="443.5" r="27.5" fill="#120F16"/>
-<circle cx="252.5" cy="443.5" r="27.5" fill="#120F16"/>
-<circle cx="117.5" cy="443.5" r="27.5" fill="#120F16"/>
-<circle cx="1272.5" cy="235.807" r="17.5" fill="#120F16"/>
+<svg width="1440" height="889" viewBox="0 0 1440 889" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_240_421)">
+<path d="M449 338.5H1460V381.5V446V521.5V588.5V649V732.5H479L313.5 841.5H215V864.5H245L260 901.5H151.5V864.5H199V841.5H11.5V869L55 878.5V913H-23.5V841.5H-39V239L-11.75 240.921L-12.5 135H58L52.5 212.5H15.5V242.841L193 255.351V224.5H145.5V140.5L273.5 144.5L246.5 224.5H208.5V256.443L337 265.5L449 338.5Z" fill="#120F16"/>
+<path d="M-2 706.5L476.5 637.5H1460M-2.5 617.5L476.5 577.5H1460M-2.5 473.5L476.5 517.5H1460M-1.5 373.5L476.5 457.5H1460M28 158C71.6667 158.833 170.7 200.1 175.5 344.5L199.464 373.355C199.807 373.768 200.301 374.025 200.835 374.07L479 397.5H1460M118 862.5C110.09 825.325 119.638 741.697 188.997 708.606C191.295 707.509 193.748 706.69 196.272 706.353C197.714 706.161 199.397 706 201 706L480 697.405L1459 697.792" stroke="#FAEAD3"/>
+<circle cx="200.5" cy="347" r="27.5" fill="#FF5A00"/>
+<circle cx="3.5" cy="347" r="27.5" fill="#FF5A00"/>
+<circle cx="200.5" cy="733" r="27.5" fill="#FF5A00"/>
+<circle cx="3.5" cy="733" r="27.5" fill="#FF5A00"/>
+<circle cx="1264.5" cy="549" r="17.5" fill="#FF5A00"/>
+<path d="M474.5 328V748.5" stroke="#FAEAD3" stroke-width="3"/>
+<path d="M802.5 325V741.5" stroke="#FAEAD3" stroke-width="3"/>
+<path d="M1121.5 324V735.5" stroke="#FAEAD3" stroke-width="3"/>
+<path d="M1406.5 327V748.5" stroke="#FAEAD3" stroke-width="3"/>
+</g>
+<defs>
+<clipPath id="clip0_240_421">
+<rect width="1440" height="889" fill="white"/>
+</clipPath>
+</defs>
 </svg>
