@@ -67,4 +67,9 @@
     font-weight: 300;
     font-style: normal;
 }
-
+@font-face {
+    font-family: 'KazimirText-Medium';
+    src: url(../fonts/KazimirText-Medium.ttf);
+    font-weight: 500;
+    font-style: normal;
+}
