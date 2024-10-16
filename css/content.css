@@ -136,6 +136,22 @@ body {
     font-weight: 400;
     line-height: normal;
   }
+  .pitalic{
+    color: #FAEAD3;
+    font-family: Kazimir-Italic;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .hitalic{
+    color: #FAEAD3;
+    font-family: Kazimir-Italic;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
   .pabout{
     color: #FAEAD3;
     display: flex;
@@ -329,7 +345,7 @@ flex-shrink: 0;
   .palf{
     color: #FAEAD3;
     text-align: center;
-    font-family: Kazimir-Medium;
+    font-family: "Kazimir-Medium";
     font-size: 56px;
   }
   .blockalf2{
