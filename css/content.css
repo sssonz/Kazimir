@@ -236,210 +236,186 @@ body {
   }
 
 
-.featuresscreen{
+.features_screen{
   height: 1533px;
   background-color: #FAEAD3;
+  background-image: url("../img/features.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  justify-content: center;
 }
-  .blockfeatures{
+  .block_features{
+    display: flex;
+    width: 1260px;
+    height: 1269px;
+    justify-content: space-between;
+    margin-top: 100px;
+    flex-direction: column;
+  }
+  .bl_features{
+    display: flex;
+    width: 1260px;
+    height: 364px;
+    justify-content: space-between;
+  }
+  .text_features{
     display: flex;
     width: 438px;
+    height: 364px;
     flex-direction: column;
-    align-items: flex-start;
-    gap: 30px;
-    margin-top: 100px;
-    margin-left: 90px;
+    justify-content: space-between;
   }
-  .h2feat{
+  .h2_feat{
     color: #FF5A00;
   }
-  .pfeat{
+  .p_feat{
     color: #120F16;
   }
-  .imgfeatstick1{
-    display: inline-flex;
-    height: 462px;
-    align-items: center;
-    flex-shrink: 0;
-    margin-top: 450px;
-  }
-  .imgfeatstick2{
-    display: inline-flex;
-    height: 839px;
-    margin-top: 75px;
-    margin-left: 755px;
-  }
-  .imgfeatxylophone{
-    display: flex;
-    width: 1301px;
-    height: 703px;
-    justify-content: center;
-    align-items: center;
-    flex-shrink: 0;
-    margin-top: 730px;
-    margin-left: 70px;
-  }
-  .blocka{
+  .block_a{
     display: flex;
     width: 407px;
-    align-items: flex-start;
-    gap: 50px;
-    margin-top: 120px;
-    margin-left: 943px;
+    justify-content: space-between;
   }
-  .h2a{
+  .h2_a{
     color: #120F16;
     font-size: 450px;
     line-height: 46%;
     width: 263px;
     height: 240px;
-    flex-shrink: 0;
   }
-  .imgfeatdrop{
-    margin-top: 114.45px;
-    margin-left: 1078px;
+  .img_feat_drop{
+    margin-top: -5px;
+    margin-left: 984px;
   }
-  .blocka2{
-    display: inline-flex;
+  .block_a2{
+    display: flex;
     align-items: flex-end;
-    gap: 73px;
-    margin-top: 463px;
-    margin-left: 623px;
+    margin-left: 603px;
+    justify-content: space-between;
+    width: 500px;
   }
-  .h2a2{
+  .h2_a2{
     color: #120F16;
     font-size: 500px;
     line-height: 43%;
     width: 306px;
     height: 259px;
   }
-  .imgfeatdrop2{
-    margin-top: 625.7px;
-    margin-left: 826.95px;
+  .img_feat_drop2{
+    margin-top: 590px;
+    margin-left: 807px;
   }
-  .blockalf{
+  .block_alf{
     width: 1257px;
     height: 518px;
-    margin-top: 835px;
-    margin-left: 92px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
   }
-  .blockalf1{
+  .block_alf1{
     display: flex;
     width: 58px;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    gap: -7px;
   }
-  .blalf{
+  .bl_alf{
     width: 58px;
     height: 80px;
   }
-  .palf{
+  .p_alf{
     color: #FAEAD3;
     text-align: center;
     font-family: "Kazimir-Medium";
     font-size: 56px;
   }
-  .blockalf2{
+  .block_alf2{
     display: flex;
     width: 58px;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    gap: -7px;
     margin-top: 5px;
   }
-  .blockalf3{
+  .block_alf3{
     display: flex;
     width: 58px;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    gap: -7px;
     margin-top: 20px;
   }
-  .blockalf4{
+  .block_alf4{
     display: flex;
     width: 58px;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    gap: -7px;
     margin-top: 35px;
   }
-  .blockalf5{
+  .block_alf5{
     display: flex;
     width: 58px;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    gap: -7px;
     margin-top: 50px;
   }
-  .blockalf6{
+  .block_alf6{
     display: flex;
     width: 58px;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    gap: -7px;
     margin-top: 65px;
   }
-  .blockalf7{
+  .block_alf7{
     display: flex;
     width: 58px;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    gap: -7px;
     margin-top: 85px;
   }
-  .blockalf8{
+  .block_alf8{
     display: flex;
     width: 58px;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    gap: -7px;
     margin-top: 60px;
   }
-  .blockalf9{
+  .block_alf9{
     display: flex;
     width: 58px;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    gap: -7px;
     margin-top: 105px;
   }
-  .blockalf10{
+  .block_alf10{
     display: flex;
     width: 58px;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    gap: -7px;
     margin-top: 100px;
   }
-  .blockalf11{
+  .block_alf11{
     display: flex;
     width: 58px;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    gap: -7px;
     margin-top: 110px;
   }
-  .blockalf12{
+  .block_alf12{
     display: flex;
     width: 58px;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    gap: -7px;
     margin-top: 120px;
   }
 
