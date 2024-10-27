@@ -567,15 +567,15 @@ body {
     justify-content: center;
     align-items: center;
     color: #FAEAD3;
-    margin-top: 740px;
+    margin-top: 735px;
     margin-left: 430px;
   }
   .p_31{
     width: 122px;
-    height: 90px;
+    height: 100px;
     flex-shrink: 0;
     font-family: Kazimir-Bold;
-    font-size: 108px;
+    font-size: 115px;
     letter-spacing: 7px;
   }
   .p_oct{
